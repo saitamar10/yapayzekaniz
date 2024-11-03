@@ -36,6 +36,25 @@ export default defineI18nConfig(() => ({
             image_generation: 'Image generation',
             system_prompt: 'System prompt',
             universal: 'Universal',
+        },
+        tr: {
+            setting: 'Ayarlar',
+            use_own_key: 'Kendi anahtarını kullan',
+            new_chat: 'Yeni sohbet',
+            input_password: 'Lütfen erişim şifresini girin',
+            confirm: 'Onayla',
+            with_history: 'Gönderirken geçmişi dahil et',
+            without_history: 'Gönderirken geçmişi dahil etme',
+            please_input_text: 'Lütfen metin girin',
+            add_image: 'Resim ekle',
+            support_paste: 'Yapıştırmayı destekler',
+            send: 'Gönder',
+            img_gen_steps: 'Görüntü oluşturma adımları',
+            text_generation: 'Metin oluşturma',
+            image_generation: 'Görüntü oluşturma',
+            system_prompt: 'Sistem bildirimi',
+            universal: 'Çok modlu',
         }
+
     }
 }))
